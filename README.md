@@ -1,2 +1,3 @@
 # Pr-test
-PR test
+
+Added a sentance to the readme. :)
